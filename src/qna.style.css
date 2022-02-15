@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+
+body {
+    background-color: rgb(254, 255, 195);
+}
+
+.main {
+    background-color:  rgb(161, 0, 179);
+    border-radius: 25px;
+
+}
+
+.first-qna {
+    background-color: rgb(189, 201, 212);
+    border: 1px solid rgb(200, 35, 112);
+    padding: 50px;
+    margin: 50px;
+}
+
+.first-qna h2 {
+    text-align: center;
+    font-size: 40px;
+    color:rgb(62, 27, 219); 
+   
+}
+
+.first-qna p {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto Serif', sans-serif;
+    letter-spacing: 1px;
+
+}
